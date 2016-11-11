@@ -1,0 +1,2 @@
+# hibernate-Joincriteria
+join table
